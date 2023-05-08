@@ -1,6 +1,6 @@
 input: .
 output: build
-url: # Add your website address here
+url: https://retypeteste.netlify.app/
 favicon: static/favicon.ico
 branding:
   title: Testando aplicação
