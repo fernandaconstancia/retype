@@ -1,5 +1,5 @@
 ---
-icon: star
+icon: note
 ---
 
 # Introdução
