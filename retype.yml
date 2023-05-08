@@ -1,0 +1,14 @@
+input: .
+output: build
+url: # Add your website address here
+favicon: static/favicon.ico
+branding:
+  title: Testando aplicação
+  label: Docs
+links:
+- text: Início
+  link: https://retype.com/guides/getting-started/
+- text: Site
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Criado em {{ year }}. Com todos os direitos reservados."
